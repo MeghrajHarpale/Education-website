@@ -11,3 +11,6 @@ git remote add origin <ssh url.git>
 git push origin master
 
 ******************for update resposatory**************
+git add .
+git commit -m "Added cheatsheet"
+git push origin master
